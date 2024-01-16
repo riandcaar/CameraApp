@@ -1,0 +1,16 @@
+*.iml
+.gradle
+.idea
+.DS_Store
+build
+captures
+.externalNativeBuild
+.cxx
+local.properties
+xcuserdata
+# Project exclude paths
+/Amoba_Medic_Doctor/
+/AmobaMedic/
+/app/
+/gradle/
+/shared/
